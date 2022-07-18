@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jamiewelch1011@gmail.com
+	name = jamie welch
